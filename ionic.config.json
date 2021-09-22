@@ -1,0 +1,7 @@
+{
+  "name": "progra1-software-CRUD-Firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
